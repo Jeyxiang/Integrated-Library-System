@@ -2,6 +2,12 @@
 Project aim: create a workable ILS for users to borrow and return books. The books can be stored in either mySQL or MongoDB. User data including date of borrowing will be saved
 in the relational database (mySQL) . 
 
+![image](https://user-images.githubusercontent.com/77261306/126990927-7239786d-6426-43e5-aa1c-67c701ad4900.png)
+
+![image](https://user-images.githubusercontent.com/77261306/126991125-cbe65f16-9f0e-49dd-846b-592d7216574f.png)
+
+
+
 ### BEFORE RUNNING
 
 Dependencies: Python3, pillow, tkinter, mysql-connector-python, pymongo, dateutil
