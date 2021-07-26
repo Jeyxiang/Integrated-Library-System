@@ -1,4 +1,6 @@
-# BT2102
+# Integrated Library System 
+Project aim: create a workable ILS for users to borrow and return books. The books can be stored in either mySQL or MongoDB. User data including date of borrowing will be saved
+in the relational database (mySQL) . 
 
 ### BEFORE RUNNING
 
